@@ -1,16 +1,18 @@
-## Hi there 👋
+# Massimo Vanin 🐞
 
-<!--
-**M4xV/M4xV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Partner Operativo | Systems & Security | Creator @ Debug Magazine**
 
-Here are some ideas to get you started:
+Benvenuti nel mio hub tecnico. Qui pubblico gli script, le configurazioni e le analisi forensi trattate nel canale YouTube e nel Podcast.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Cosa trovi qui:
+- **[STRATEGY]** Automazione sistemi e gestione webserver.
+- **[SYSTEMS]** Script PowerShell e Bash per l'amministrazione pro.
+- **[CONTENT]** Kit di produzione e risorse per i video.
+
+### 🔗 Link Rapidi
+- 📺 [YouTube: @massimo-vanin](https://youtube.com/@massimo-vanin)
+- 🎙️ [Podcast: Deep Dive]
+- 📰 [Newsletter: Debug Magazine]
+
+---
+*Approccio Hoodie & Jeans: meno cerimonie, più codice.*
