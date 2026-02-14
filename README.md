@@ -10,9 +10,11 @@ Benvenuti nel mio hub tecnico. Qui pubblico gli script, le configurazioni e le a
 - **[CONTENT]** Kit di produzione e risorse per i video.
 
 ### 🔗 Link Rapidi
-- 📺 [YouTube: @massimo-vanin](https://youtube.com/@massimo-vanin)
-- 🎙️ [Podcast: Deep Dive]
-- 📰 [Newsletter: Debug Magazine]
+🎥Youtube: https://www.youtube.com/@massimo-vanin
+🖼️Instagram: https://www.instagram.com/massimovanin
+🎙️Spotify: https://open.spotify.com/user/massimo.vanin
+💼Linkedin: https://www.linkedin.com/in/massimo-vanin-3669bb54
+🧑‍💻Il mio sito: https://www.vaninsolutions.com
 
 ---
 *Approccio Hoodie & Jeans: meno cerimonie, più codice.*
